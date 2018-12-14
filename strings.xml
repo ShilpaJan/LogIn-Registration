@@ -1,0 +1,27 @@
+<resources>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_login">LogIn</string>
+    <string name="button_register">Register</string>
+    <string name="not_yet_registered">Not yet registered??</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="hint_email" />
+    <string name="hint_mobno" />
+    <string name="hint_address" />
+    <string name="hint_name" />
+    <string name="hint_confirmpassword" />
+    <string name="hint_conFirmPassword" />
+    <string name="app_name" />
+    <string-array name="list">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+        <item>Item 5</item>
+    </string-array>
+</resources>
